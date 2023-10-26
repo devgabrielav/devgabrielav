@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there! I'm Gabriela Vicentini 👋
 
-<!--
-**devgabrielav/devgabrielav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on My Portfolio
+- 🌱 I’m currently learning SQL
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielavicentini/)
+- 😄 Pronouns: She/Her Ela/Dela
 
-Here are some ideas to get you started:
+<div display="flex" align="center">
+  <a href="https://www.linkedin.com/in/gabrielavicentini/" />
+  <img width="42%" src="https://github-readme-devgabrielav-stats.vercel.app/api?username=devgabrielav&show_icons=true&theme=tokyonight" />
+  <img width="37.7%" src="https://github-readme-devgabrielav-stats.vercel.app/api/top-langs/?username=devgabrielav&langs_count=8&layout=compact&theme=tokyonight" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+
+<div display="flex" align="center">
+    <img height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="38" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="38" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img height="38" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="38" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+</div>
+
