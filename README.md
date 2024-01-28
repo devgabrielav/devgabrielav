@@ -1,7 +1,7 @@
 ### Hi there! I'm Gabriela Vicentini 👋
 
 - 🔭 I’m currently working on My Portfolio
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning POO
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielavicentini/)
 - 😄 Pronouns: She/Her Ela/Dela
 
