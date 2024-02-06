@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning POO
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielavicentini/)
+- 📫 How to reach me:
+    - [LinkedIn](https://www.linkedin.com/in/gabrielavicentini/)
+    - [Email](gabrivicentini@icloud.com)
 - 😄 Pronouns: She/Her Ela/Dela
 
 <div display="flex" align="center">
