@@ -8,10 +8,8 @@
 - 😄 Pronouns: She/Her Ela/Dela
 
 <div display="flex" align="center">
-  <div>
-      <img width="42%" src="https://github-readme-devgabrielav-stats.vercel.app/api?username=devgabrielav&show_icons=true&theme=tokyonight" />
-  </div>
   <img width="37.7%" src="https://github-readme-devgabrielav-stats.vercel.app/api/top-langs/?username=devgabrielav&langs_count=8&layout=compact&theme=tokyonight" />
+  <img width="42%" src="https://github-readme-devgabrielav-stats.vercel.app/api?username=devgabrielav&show_icons=true&theme=tokyonight" />
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
