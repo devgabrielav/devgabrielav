@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/gabrielavicentini/" />
   <img width="42%" src="https://github-readme-devgabrielav-stats.vercel.app/api?username=devgabrielav&show_icons=true&theme=tokyonight" />
   <img width="37.7%" src="https://github-readme-devgabrielav-stats.vercel.app/api/top-langs/?username=devgabrielav&langs_count=8&layout=compact&theme=tokyonight" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
 ## 
@@ -19,7 +20,8 @@
     <img height="38" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img height="38" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height="38" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-    <img height="38" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img height="38" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+    <img height="38" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <i height="38" width="40" class="devicon-express-original"></i>
+
 </div>
 
