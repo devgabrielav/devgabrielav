@@ -1,4 +1,4 @@
-### Hi there! I'm Gabriela Vicentini 👋
+### Hi there! 👋  I'm Gabriela Vicentini! A Junior Back-End and Front-End Developer, working my way to Fullstack! Welcome to my GitHub Profile! 😊
 
 - 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning POO
