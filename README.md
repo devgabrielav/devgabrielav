@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-I'm Gabriela Vicentini! A Junior Fullstack Developer! Welcome to my GitHub Profile! 😊
+I'm Gabriela Vicentini! A Junior Software Developer! Welcome to my GitHub Profile! 😊
 
 - 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning POO
