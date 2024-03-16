@@ -2,7 +2,7 @@
 I'm Gabriela Vicentini! A Junior Software Developer! Welcome to my GitHub Profile! 😊
 
 - 🔭 I’m currently working on My Portfolio
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/gabrielavicentini/)
     - Email: gabrivicentini@icloud.com
