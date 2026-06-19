@@ -18,13 +18,7 @@ I am fluent in English (C2) and currently learning Japanese.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/devgabrielav?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/devgabrielav">
-</picture>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielav)](https://github.com/devgabrielav/github-readme-stats)
+<img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/devgabrielav?theme=dark">
 
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/gabrielavicentini/)
