@@ -11,22 +11,18 @@ I am fluent in English (C2) and currently learning Japanese.
 ## Tech Stack
 
 ### Current Work 👩🏻‍💻
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,graphql" alt="React, JavaScript, TypeScript, Node.js, HTML, Graphql" />&nbsp;    <img height="48" src="https://icon2.cleanpng.com/20180817/fyx/kisspng-logo-brand-font-vtex-portable-network-graphics-5b77737846de22.2899010315345550002903.jpg" alt="VTEX" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,graphql" alt="React, JavaScript, TypeScript, Node.js, HTML, Graphql" />
 
 ### Learning & Study Projects 📚
 <img src="https://skillicons.dev/icons?i=python,jest,cs,redux,docker" alt="Python, Jest, C#, Redux, Docker" />
-
----
-
-[![Top Langs](https://github-used-languages.vercel.app/devgabrielav?theme=dark)](https://github.com/devgabrielav/github-readme-stats)
 
 --- 
 
 ## Languages
 
-- Portuguese — Native
-- English — Fluent (C2)
-- Japanese — Beginner
+- Portuguese — Native 🇧🇷
+- English — Fluent (C2) 🇺🇸
+- Japanese — Beginner 🇯🇵
 
 ### How to reach me 📫:
 - [LinkedIn](https://www.linkedin.com/in/gabrielavicentini/)
