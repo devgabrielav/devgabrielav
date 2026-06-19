@@ -20,9 +20,9 @@ I am fluent in English (C2) and currently learning Japanese.
 
 ## Languages
 
-- Portuguese — Native 🇧🇷
-- English — Fluent (C2) 🇺🇸
-- Japanese — Beginner 🇯🇵
+- 🇧🇷 Portuguese — Native 
+- 🇺🇸 English — Fluent (C2) 
+- 🇯🇵 Japanese — Beginner 
 
 ### How to reach me 📫:
 - [LinkedIn](https://www.linkedin.com/in/gabrielavicentini/)
