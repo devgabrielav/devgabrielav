@@ -17,8 +17,7 @@ I am fluent in English (C2) and currently learning Japanese.
 <img src="https://skillicons.dev/icons?i=python,jest,cs,redux,docker" alt="Python, Jest, C#, Redux, Docker" />
 
 ---
-
-<img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/devgabrielav?theme=dark">
+[![Top Langs](https://github-used-languages.vercel.app/devgabrielav?theme=dark)
 
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/gabrielavicentini/)
